@@ -1,10 +1,10 @@
 .welc {
   background-color: rgba(130, 180, 180, 0.856);
   padding: 5px;
-
+  text-align: center;
 }
 
-#webself {
+#webself, .p-jour {
   background-color: antiquewhite;
   padding: 5px;
   margin: 3px;
@@ -16,3 +16,17 @@ ul {
   list-style: none;
 }
 
+.p-jour {
+  background-color: antiquewhite;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: medium;
+  margin: 10px;
+  padding: 10px;
+  width: 500px;
+}
+.addgit {
+  background-color: antiquewhite;
+  padding: 10px;
+  margin: 10px;
+  width: 500px ;
+}
